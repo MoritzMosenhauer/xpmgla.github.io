@@ -7,7 +7,7 @@ tags: [python, crawl, parse]
 comments: true
 ---
 
-# Hello Everyone!
+### Hello Everyone!
 
 The main part of this post is not this post, but a piece of python-code (and a folder structure alongside). 
 The code will give you an example of how to crawl for desired internet-pages and parse your relevant
@@ -17,7 +17,7 @@ in the future. There are also extensive comments within the code itself.
 What are we doing here then? You need to have python installed in order to open and utilize the content I
 have so warmly talked about above! So let's go do that.
 
-# Downloading Python
+### Downloading Python
 
 All I am doing here worked for me using Windows. If you run into difficulties, please google some Youtube-tutorials for your operating system. 
 
